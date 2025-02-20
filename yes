@@ -1,1 +1,3 @@
-echo hi
+#!/bin/bash
+clear
+read -p "Do you wanna install free fornite hacks? y/n: "
